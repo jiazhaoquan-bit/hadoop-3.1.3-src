@@ -31,7 +31,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
-//這是案例wordcount
+//這是案例wordcount1111111
 public class WordCount {
 
   public static class TokenizerMapper 
